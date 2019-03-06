@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../25.php [tasks]'" />
-    <option name="defaultScopeName" value="File '.../25.php [tasks]'" />
-    <option name="SEARCH_SCOPE" value="File '.../25.php [tasks]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
