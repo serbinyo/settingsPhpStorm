@@ -22,6 +22,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="es5-shims" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__yastatic.net_es5-shims_0.0.2_es5-shims.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__yastatic.net_es5-shims_0.0.2_es5-shims.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="html5shiv" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -63,6 +74,17 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_pdfmake_0.1.36_pdfmake.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="share" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__yastatic.net_share2_share.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__yastatic.net_share2_share.js" />
       </CLASSES>
       <SOURCES />
     </library>
