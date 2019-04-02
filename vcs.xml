@@ -26,6 +26,10 @@
           <option name="url" value="git@github.com:serbinyo/rarus_regExp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:serbinyo/serbin_php_tasks_1-60.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PhpstormProjects" />
