@@ -47,6 +47,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/PhpstormProjects" />
+    <option name="cloneParentDir" value="/var/www/webstudio2.loc" />
   </component>
 </application>
