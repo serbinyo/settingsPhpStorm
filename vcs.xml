@@ -38,15 +38,8 @@
           <option name="url" value="git@github.com:serbinyo/rarus_YABS.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
-      </list>
-    </option>
-    <option name="cloneParentDir" value="$USER_HOME$/PhpstormProjects" />
-  </component>
-  <component name="HgRememberedInputs">
-    <option name="visitedUrls">
-      <list>
         <UrlAndUserName>
-          <option name="url" value="ssh://serbin@serbin.webdev.rarus-crimea.ru//home/bitrix/ext_www/serbin.webdev.rarus-crimea.ru/" />
+          <option name="url" value="https://github.com/serbinyo/parsingTask" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
