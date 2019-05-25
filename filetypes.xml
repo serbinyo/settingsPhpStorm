@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping pattern="1юече" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
