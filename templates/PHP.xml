@@ -1,0 +1,3 @@
+<templateSet group="PHP">
+  <template name="bug" value="echo '&lt;pre&gt;';print_r();echo '&lt;/pre&gt;';" description="echo '&lt;pre&gt;';print_r();echo '&lt;/pre&gt;';" toReformat="false" toShortenFQNames="true" />
+</templateSet>
