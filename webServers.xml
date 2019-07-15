@@ -9,14 +9,6 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="91de4f4b-2cd2-4b53-ac29-1baf22d060ee" name="karavan" url="http://95.213.236.220">
-        <fileTransfer host="95.213.236.220" port="22" rootFolder="/home/bitrix/www" accessType="SFTP" authAgent="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
     </option>
   </component>
 </application>
