@@ -1,12 +1,12 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="deb14b2c-eb5f-4b5d-99a8-cac32931dcf4" name="webdev" url="http://194.226.180.77">
-        <fileTransfer host="194.226.180.77" port="22" rootFolder="/home/bitrix/ext_www" accessType="SFTP" authAgent="true">
+      <webServer id="deb14b2c-eb5f-4b5d-99a8-cac32931dcf4" name="webdev" url="http://213.59.160.45">
+        <fileTransfer host="213.59.160.45" port="2505" rootFolder="/home/bitrix/ext_www" accessType="SFTP" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="22" />
+          <option name="port" value="2505" />
         </fileTransfer>
       </webServer>
     </option>
