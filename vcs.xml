@@ -57,9 +57,13 @@
           <option name="url" value="ssh://serbin@serbin.webdev.rarus-crimea.ru//home/bitrix/ext_www/serbin.webdev.rarus-crimea.ru/" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://serbin@194.226.180.84//home/bitrix/www" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="/var/www/webstudio2.loc" />
+    <option name="cloneParentDir" value="$USER_HOME$/PhpstormProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
