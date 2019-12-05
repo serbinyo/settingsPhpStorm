@@ -4,4 +4,5 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="fori" value="for (int i; i &lt; 10; i++) {}" description="for (int i; i &lt; 10; i++) {}" toReformat="false" toShortenFQNames="true" />
 </templateSet>
