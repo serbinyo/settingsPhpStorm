@@ -1,0 +1,14 @@
+<templateSet group="PHP">
+  <template name="bug" value="echo '&lt;pre&gt;';print_r($VAR$);echo '&lt;/pre&gt;';" description="echo '&lt;pre&gt;';print_r();echo '&lt;/pre&gt;';" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="fori" value="for ($i = 0; $i &lt; $ITERATES$; $i++) {&#10;&#10;}" description="for ($i = 0; $i &lt; 10; $i++) {...}" toReformat="false" toShortenFQNames="true">
+    <variable name="ITERATES" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
