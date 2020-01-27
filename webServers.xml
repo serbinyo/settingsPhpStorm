@@ -9,6 +9,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="f0972355-450d-45ac-99b0-32892a020e9b" name="autoselection" url="http://194.226.180.77">
+        <fileTransfer host="194.226.180.77" port="22" rootFolder="/home/bitrix/ext_www/serbin.webdev.rarus-crimea.ru" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
