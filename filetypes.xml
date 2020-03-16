@@ -4,12 +4,12 @@
     <extensionMap>
       <mapping pattern="hgrc" type="PLAIN_TEXT" />
       <mapping pattern="1юече" type="PLAIN_TEXT" />
-      <mapping ext="log2" type="PLAIN_TEXT" />
-      <mapping ext="log1" type="PLAIN_TEXT" />
       <mapping ext="orig" type="PLAIN_TEXT" />
+      <mapping ext="log1" type="PLAIN_TEXT" />
+      <mapping ext="log2" type="PLAIN_TEXT" />
       <mapping ext="qr" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
