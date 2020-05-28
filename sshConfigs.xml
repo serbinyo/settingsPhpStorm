@@ -2,7 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="OPEN_SSH" host="194.226.180.77" id="61d58b6d-f48c-45ae-b2a9-2157f4c18bef" port="22" customName="webdev" nameFormat="CUSTOM" username="serbin" />
-      <sshConfig authType="OPEN_SSH" host="194.226.180.77" id="59adb48a-040b-412f-95da-e1a7403d06f9" port="22" customName="webdev" nameFormat="CUSTOM" username="serbin" />
+      <sshConfig authType="OPEN_SSH" host="194.226.180.77" id="babe940f-17c1-40fc-8779-11a8ee094b12" port="22" customName="webdev" nameFormat="CUSTOM" username="serbin" />
     </configs>
   </component>
 </application>
