@@ -24,5 +24,6 @@
         <entry key="yaml" value="true" />
       </map>
     </option>
+    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
   </component>
 </application>
