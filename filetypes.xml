@@ -8,6 +8,7 @@
       <mapping pattern=".dev" type="PLAIN_TEXT" />
       <mapping ext="orig" type="PLAIN_TEXT" />
       <mapping ext="origin" type="PLAIN_TEXT" />
+      <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="log2" type="PLAIN_TEXT" />
       <mapping ext="log1" type="PLAIN_TEXT" />
