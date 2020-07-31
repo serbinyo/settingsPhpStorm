@@ -5,6 +5,7 @@
       <mapping pattern="master" type="PLAIN_TEXT" />
       <mapping pattern="hgrc" type="PLAIN_TEXT" />
       <mapping pattern="1юече" type="PLAIN_TEXT" />
+      <mapping pattern=".dev" type="PLAIN_TEXT" />
       <mapping ext="orig" type="PLAIN_TEXT" />
       <mapping ext="origin" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
