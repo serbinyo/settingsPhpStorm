@@ -9,7 +9,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="e81addf9-32b6-4439-8e46-a65c2ac83413" name="sevcolor dev" url="https://192.168.40.130/">
-        <fileTransfer rootFolder="/home/bitrix/www" accessType="SFTP" host="192.168.40.130" port="22" sshConfigId="70f53357-dcdc-47d5-bf79-d78f2d06a63f" sshConfig="sevcolor dev">
+        <fileTransfer rootFolder="/home/bitrix/www" accessType="SFTP" host="192.168.40.131" port="22" sshConfigId="70f53357-dcdc-47d5-bf79-d78f2d06a63f" sshConfig="sevcolor dev">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
