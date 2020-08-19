@@ -9,7 +9,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="973fb22c-c110-45eb-bceb-6f4e209f4d9f" name="avtoprice.demo" url="http://194.226.180.77">
-        <fileTransfer rootFolder="/home/bitrix/ext_www/serbin.webdev.rarus-crimea.ru" accessType="SFTP" host="194.226.180.77" port="22" sshConfigId="4d755254-2994-4422-a06f-dc66668cba1d" sshConfig="avtoprice.demo" authAgent="true">
+        <fileTransfer rootFolder="/home/bitrix/ext_www/serbin.webdev.rarus-crimea.ru" accessType="SFTP" host="194.226.180.77" port="22" sshConfigId="61d58b6d-f48c-45ae-b2a9-2157f4c18bef" sshConfig="webdev" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
