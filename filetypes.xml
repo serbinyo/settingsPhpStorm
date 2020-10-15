@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping pattern="libraries" type="PHP" />
       <mapping pattern="1юече" type="PLAIN_TEXT" />
       <mapping pattern="hgrc" type="PLAIN_TEXT" />
       <mapping pattern="master" type="PLAIN_TEXT" />
