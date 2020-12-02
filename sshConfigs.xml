@@ -10,6 +10,9 @@
       <sshConfig authType="PASSWORD" host="85.143.219.123" id="aaaf346d-1baa-4bc8-b422-5d544ffd0783" port="22" customName="СпбДетали" nameFormat="CUSTOM" username="bitrix">
         <option name="customName" value="СпбДетали" />
       </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="213.59.160.45" id="a65f9a19-c240-45d9-b47b-57f983f9ccfe" port="2507" customName="b24.sevgov" nameFormat="CUSTOM" username="serbin">
+        <option name="customName" value="b24.sevgov" />
+      </sshConfig>
     </configs>
   </component>
 </application>
