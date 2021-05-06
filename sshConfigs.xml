@@ -1,16 +1,16 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="OPEN_SSH" host="194.226.180.77" id="61d58b6d-f48c-45ae-b2a9-2157f4c18bef" port="22" customName="webdev" nameFormat="CUSTOM" username="serbin">
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="194.226.180.77" id="61d58b6d-f48c-45ae-b2a9-2157f4c18bef" port="22" customName="webdev" nameFormat="CUSTOM" username="serbin">
         <option name="customName" value="webdev" />
       </sshConfig>
       <sshConfig authType="PASSWORD" host="192.168.40.133" id="70f53357-dcdc-47d5-bf79-d78f2d06a63f" port="22" customName="sevcolor dev" nameFormat="CUSTOM" username="bitrix">
         <option name="customName" value="sevcolor dev" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="85.143.219.123" id="aaaf346d-1baa-4bc8-b422-5d544ffd0783" port="22" customName="СпбДетали" nameFormat="CUSTOM" username="bitrix">
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="85.143.219.123" id="aaaf346d-1baa-4bc8-b422-5d544ffd0783" port="22" customName="СпбДетали" nameFormat="CUSTOM" username="bitrix">
         <option name="customName" value="СпбДетали" />
       </sshConfig>
-      <sshConfig authType="OPEN_SSH" host="213.59.160.45" id="a65f9a19-c240-45d9-b47b-57f983f9ccfe" port="2507" customName="b24.sevgov" nameFormat="CUSTOM" username="serbin">
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="213.59.160.45" id="a65f9a19-c240-45d9-b47b-57f983f9ccfe" port="2507" customName="b24.sevgov" nameFormat="CUSTOM" username="serbin">
         <option name="customName" value="b24.sevgov" />
       </sshConfig>
     </configs>
