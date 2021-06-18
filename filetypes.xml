@@ -2,6 +2,10 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping pattern="zw3C3jLLOwtbKUdFOLtp" type="AUTO_DETECTED" />
+      <mapping pattern="jUdHhYS+vLXxfNa4p6CG" type="AUTO_DETECTED" />
+      <mapping pattern="YUcVZKZayce15jg4MV3l" type="AUTO_DETECTED" />
+      <mapping pattern="y1TnhhCeLQoitjO1Tkut" type="AUTO_DETECTED" />
       <mapping pattern="libraries" type="PHP" />
       <mapping pattern="Правовое управление тест SOAP" type="PLAIN_TEXT" />
       <mapping pattern="hgrc" type="PLAIN_TEXT" />
