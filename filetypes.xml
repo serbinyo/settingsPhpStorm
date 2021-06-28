@@ -13,7 +13,10 @@
       <mapping pattern="ae0d955040e92689f5bc515796b1de2a" type="AUTO_DETECTED" />
       <mapping pattern="b234b9c0b6a61491dfb5d7291aef618e" type="AUTO_DETECTED" />
       <mapping pattern="48058d4424dc14d26d218f85229bae94" type="AUTO_DETECTED" />
+      <mapping pattern="f51222d1589a28013efe7e500f4e8397" type="AUTO_DETECTED" />
+      <mapping pattern="2cb35d7b764f7694cec6e840f18d7f28" type="AUTO_DETECTED" />
       <mapping pattern="y1TnhhCeLQoitjO1Tkut" type="AUTO_DETECTED" />
+      <mapping pattern="f8e54e388c9a0a669f08842eb0442471" type="AUTO_DETECTED" />
       <mapping pattern="libraries" type="PHP" />
       <mapping pattern="Правовое управление тест SOAP" type="PLAIN_TEXT" />
       <mapping pattern="hgrc" type="PLAIN_TEXT" />
