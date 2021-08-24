@@ -1,6 +1,13 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="2e6c5a1c-befb-428c-ac25-00ab8736d9ab" name="СТПРОМ">
+        <fileTransfer rootFolder="/home/bitrix/ext_www/stprom24.webdev.rarus-crimea.ru" accessType="SFTP" host="194.226.180.77" port="22" sshConfigId="61d58b6d-f48c-45ae-b2a9-2157f4c18bef" sshConfig="webdev" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
       <webServer id="188d0e18-5e50-4885-8505-16bb7fa9bfab" name="СпбДетали" url="https://auto.webkd.ru/">
         <fileTransfer rootFolder="/home/bitrix/www" accessType="SFTP" host="85.143.219.123" port="22" sshConfigId="aaaf346d-1baa-4bc8-b422-5d544ffd0783" sshConfig="СпбДетали">
           <advancedOptions>
