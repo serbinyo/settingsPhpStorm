@@ -47,6 +47,17 @@
       </DOCUMENTATION>
       <SOURCES />
     </library>
+    <library name="pixi" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_pixijs.download_release_pixi.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_pixijs.download_release_pixi.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="popper.js" type="javaScript">
       <properties>
         <sourceFilesUrls>
