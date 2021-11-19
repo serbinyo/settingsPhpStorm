@@ -1,6 +1,13 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="5f38874a-0f47-47df-aced-ec8d21b28c24" name="sevgu-dev">
+        <fileTransfer rootFolder="/home/bitrix/ext_www/sgu.webdev.rarus-crimea.ru" accessType="SFTP" host="194.226.180.77" port="22" sshConfigId="61d58b6d-f48c-45ae-b2a9-2157f4c18bef" sshConfig="webdev" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
       <webServer id="2e6c5a1c-befb-428c-ac25-00ab8736d9ab" name="СТПРОМ">
         <fileTransfer rootFolder="/home/bitrix/ext_www/stprom24.webdev.rarus-crimea.ru" accessType="SFTP" host="194.226.180.77" port="22" sshConfigId="61d58b6d-f48c-45ae-b2a9-2157f4c18bef" sshConfig="webdev" authAgent="true">
           <advancedOptions>
