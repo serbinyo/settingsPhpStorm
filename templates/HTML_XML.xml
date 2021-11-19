@@ -1,0 +1,8 @@
+<templateSet group="HTML/XML">
+  <template name="pech" value="&lt;?= $END$ ?&gt;" description="php echo insert" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
