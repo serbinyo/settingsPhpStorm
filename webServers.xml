@@ -1,6 +1,13 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="647b42ba-6b96-49a1-860a-ce9219282a99" name="fabrica-dev">
+        <fileTransfer rootFolder="/home/bitrix/ext_www/bx-test-02" accessType="SFTP" host="94.79.43.197" port="22" sshConfigId="e266f045-fe6f-45c2-a51b-d9f1a64e8c38" sshConfig="DEV-fabrika">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
       <webServer id="5f38874a-0f47-47df-aced-ec8d21b28c24" name="sevgu-dev">
         <fileTransfer rootFolder="/home/bitrix/ext_www/sgu.webdev.rarus-crimea.ru" accessType="SFTP" host="194.226.180.77" port="22" sshConfigId="61d58b6d-f48c-45ae-b2a9-2157f4c18bef" sshConfig="webdev" authAgent="true">
           <advancedOptions>

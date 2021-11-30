@@ -13,7 +13,7 @@
       <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="213.59.160.45" id="a65f9a19-c240-45d9-b47b-57f983f9ccfe" port="2507" customName="b24.sevgov" nameFormat="CUSTOM" username="serbin">
         <option name="customName" value="b24.sevgov" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="94.79.43.197" id="e266f045-fe6f-45c2-a51b-d9f1a64e8c38" port="22" customName="DEV-fabrika" nameFormat="CUSTOM" username="bitrix">
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="94.79.43.197" id="e266f045-fe6f-45c2-a51b-d9f1a64e8c38" port="22" customName="DEV-fabrika" nameFormat="CUSTOM" username="bitrix">
         <option name="customName" value="DEV-fabrika" />
       </sshConfig>
     </configs>
