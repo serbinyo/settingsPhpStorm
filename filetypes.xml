@@ -28,7 +28,6 @@
       <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="qr" type="PLAIN_TEXT" />
       <mapping ext="log2" type="PLAIN_TEXT" />
-      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="log1" type="PLAIN_TEXT" />
       <mapping ext="httpswd" type="PLAIN_TEXT" />
       <mapping ext="orig" type="PLAIN_TEXT" />
