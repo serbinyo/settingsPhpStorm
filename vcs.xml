@@ -46,9 +46,13 @@
           <option name="url" value="git@gitlab.rarus.ru:gazprom/lkdrp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.rarus.ru:sevtur/bitrix-app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\PhpstormProjects" />
+    <option name="cloneParentDir" value="C:\PhpstormProjects\stprom" />
   </component>
   <component name="HgRememberedInputs">
     <option name="visitedUrls">
