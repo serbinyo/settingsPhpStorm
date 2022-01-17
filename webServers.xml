@@ -51,7 +51,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="d6a5e1d0-7891-474e-b78e-b0b4a2d0ca51" name="fpsp">
-        <fileTransfer rootFolder="/home/bitrix/ext_www/fpsp92.webdev.rarus-crimea.ru" accessType="SFTP" host="194.226.180.77" port="22" sshConfigId="61d58b6d-f48c-45ae-b2a9-2157f4c18bef" sshConfig="webdev" authAgent="true">
+        <fileTransfer rootFolder="/home/bitrix/ext_www/fskr92.webdev.rarus-crimea.ru" accessType="SFTP" host="194.226.180.77" port="22" sshConfigId="61d58b6d-f48c-45ae-b2a9-2157f4c18bef" sshConfig="webdev" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
