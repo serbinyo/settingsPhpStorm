@@ -57,6 +57,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="174e4f63-f240-48f5-868e-2ae88cdac9fe" name="RuVDS хостинг">
+        <fileTransfer rootFolder="/var/www/serbin" accessType="SFTP" host="45.10.245.119" port="22" sshConfigId="6bab57fd-85ce-4566-9c62-276d80b6834d" sshConfig="RuVDS хостинг serbin бой" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

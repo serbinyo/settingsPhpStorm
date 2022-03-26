@@ -16,7 +16,7 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="94.79.43.197" id="e266f045-fe6f-45c2-a51b-d9f1a64e8c38" port="22" customName="DEV-fabrika" nameFormat="CUSTOM" username="bitrix">
         <option name="customName" value="DEV-fabrika" />
       </sshConfig>
-      <sshConfig authType="OPEN_SSH" host="45.10.245.119" id="6bab57fd-85ce-4566-9c62-276d80b6834d" port="22" customName="RuVDS хостинг serbin бой" nameFormat="CUSTOM" username="serbin">
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="45.10.245.119" id="6bab57fd-85ce-4566-9c62-276d80b6834d" port="22" customName="RuVDS хостинг serbin бой" nameFormat="CUSTOM" username="serbin">
         <option name="customName" value="RuVDS хостинг serbin бой" />
       </sshConfig>
     </configs>
