@@ -5,6 +5,7 @@
       <mapping pattern="ae0d955040e92689f5bc515796b1de2a" type="AUTO_DETECTED" />
       <mapping pattern="d04cb86a01d756b6075b3d7fbd4397ee" type="AUTO_DETECTED" />
       <mapping pattern="empty" type="AUTO_DETECTED" />
+      <mapping pattern="scgi_params" type="AUTO_DETECTED" />
       <mapping pattern="b054fecb885164db2b58daad34b0b336" type="AUTO_DETECTED" />
       <mapping pattern="serbin" type="AUTO_DETECTED" />
       <mapping pattern="hosts" type="AUTO_DETECTED" />
