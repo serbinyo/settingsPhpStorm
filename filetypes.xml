@@ -22,7 +22,6 @@
       <mapping pattern="2cb35d7b764f7694cec6e840f18d7f28" type="AUTO_DETECTED" />
       <mapping pattern="y1TnhhCeLQoitjO1Tkut" type="AUTO_DETECTED" />
       <mapping pattern="f8e54e388c9a0a669f08842eb0442471" type="AUTO_DETECTED" />
-      <mapping ext="log" type="Log" />
       <mapping pattern="libraries" type="PHP" />
       <mapping pattern="Правовое управление тест SOAP" type="PLAIN_TEXT" />
       <mapping pattern="hgrc" type="PLAIN_TEXT" />
