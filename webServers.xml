@@ -44,7 +44,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="116e3edc-bb3c-484e-84bb-0d2163ff578b" name="b24.sevgov" url="http://devworkin.sev.gov.ru/">
-        <fileTransfer rootFolder="/home/bitrix/ext_www/b24.sev.gov.ru" accessType="SFTP" host="213.59.160.45" port="2507" sshConfigId="a65f9a19-c240-45d9-b47b-57f983f9ccfe" sshConfig="b24.sevgov" authAgent="true">
+        <fileTransfer rootFolder="/home/bitrix/ext_www/" accessType="SFTP" host="213.59.160.45" port="2507" sshConfigId="a65f9a19-c240-45d9-b47b-57f983f9ccfe" sshConfig="b24.sevgov" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
