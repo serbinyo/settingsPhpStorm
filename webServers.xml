@@ -1,6 +1,13 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="3aec83f2-8c81-4fb5-bc7d-266503a9c0fb" name="FriskiPony-prod" url="https://friskypony.de/">
+        <fileTransfer rootFolder="/home/bitrix/ext_www/friskypony.de" accessType="SFTP" host="212.227.210.18" port="22" sshConfigId="15d6d900-0134-48db-9ca9-24571aca1f9b" sshConfig="FriskyPony PROD" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
       <webServer id="647b42ba-6b96-49a1-860a-ce9219282a99" name="fabrica-dev">
         <fileTransfer rootFolder="/home/bitrix/ext_www/bx-test-02" accessType="SFTP" host="94.79.43.197" port="22" sshConfigId="e266f045-fe6f-45c2-a51b-d9f1a64e8c38" sshConfig="DEV-fabrika">
           <advancedOptions>
@@ -44,9 +51,9 @@
         </fileTransfer>
       </webServer>
       <webServer id="116e3edc-bb3c-484e-84bb-0d2163ff578b" name="b24.sevgov" url="http://devworkin.sev.gov.ru/">
-        <fileTransfer rootFolder="/home/bitrix/ext_www/" accessType="SFTP" host="213.59.160.45" port="2507" sshConfigId="a65f9a19-c240-45d9-b47b-57f983f9ccfe" sshConfig="b24.sevgov" authAgent="true">
+        <fileTransfer rootFolder="/home/bitrix/ext_www/" accessType="SFTP" host="212.227.210.18" port="22" sshConfigId="15d6d900-0134-48db-9ca9-24571aca1f9b" sshConfig="FriskyPony PROD" authAgent="true">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
@@ -68,6 +75,13 @@
         <fileTransfer rootFolder="/home/bitrix/ext_www/sevdev.webdev.rarus-crimea.ru" accessType="SFTP" host="194.226.180.77" port="22" sshConfigId="61d58b6d-f48c-45ae-b2a9-2157f4c18bef" sshConfig="webdev" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="7355a313-f391-4599-96a5-afae967c2ec7" name="FriskiPony-dev" url="https://stage.friskypony.de/">
+        <fileTransfer rootFolder="/home/bitrix/ext_www/stage.friskypony.de" accessType="SFTP" host="212.227.210.18" port="22" sshConfigId="15d6d900-0134-48db-9ca9-24571aca1f9b" sshConfig="FriskyPony PROD" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>

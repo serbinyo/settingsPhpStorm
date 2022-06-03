@@ -22,6 +22,9 @@
       <sshConfig authType="PASSWORD" host="127.0.0.1" id="3dc8642a-0482-471f-af51-c4c4baf94ba9" port="2222" customName="vagrant" nameFormat="CUSTOM" username="vagrant">
         <option name="customName" value="vagrant" />
       </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="212.227.210.18" id="15d6d900-0134-48db-9ca9-24571aca1f9b" port="22" customName="FriskyPony PROD" nameFormat="CUSTOM" username="serbin">
+        <option name="customName" value="FriskyPony PROD" />
+      </sshConfig>
     </configs>
   </component>
 </application>
