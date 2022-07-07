@@ -32,7 +32,6 @@
       <mapping pattern="master" type="PLAIN_TEXT" />
       <mapping pattern=".go.php.swp" type="PLAIN_TEXT" />
       <mapping pattern="1юече" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".dev" type="PLAIN_TEXT" />
       <mapping ext="1cws" type="PLAIN_TEXT" />
       <mapping ext="snp" type="PLAIN_TEXT" />
