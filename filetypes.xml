@@ -1,39 +1,38 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
+    <ignoreFiles list="*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="ae0d955040e92689f5bc515796b1de2a" type="AUTO_DETECTED" />
-      <mapping pattern="d04cb86a01d756b6075b3d7fbd4397ee" type="AUTO_DETECTED" />
-      <mapping pattern="Caddyfile2" type="AUTO_DETECTED" />
-      <mapping pattern="empty" type="AUTO_DETECTED" />
-      <mapping pattern="Caddyfile" type="AUTO_DETECTED" />
-      <mapping pattern="scgi_params" type="AUTO_DETECTED" />
-      <mapping pattern="b054fecb885164db2b58daad34b0b336" type="AUTO_DETECTED" />
       <mapping pattern="serbin" type="AUTO_DETECTED" />
-      <mapping pattern="hosts" type="AUTO_DETECTED" />
-      <mapping pattern="48058d4424dc14d26d218f85229bae94" type="AUTO_DETECTED" />
-      <mapping pattern="mercure" type="AUTO_DETECTED" />
+      <mapping pattern="scgi_params" type="AUTO_DETECTED" />
       <mapping pattern="ec9dc678585b8548d2a0fc03bd15bb7b" type="AUTO_DETECTED" />
-      <mapping pattern="123" type="AUTO_DETECTED" />
       <mapping pattern="zw3C3jLLOwtbKUdFOLtp" type="AUTO_DETECTED" />
-      <mapping pattern="eab67771656b94769b4b00176c8c1c25" type="AUTO_DETECTED" />
-      <mapping pattern="b234b9c0b6a61491dfb5d7291aef618e" type="AUTO_DETECTED" />
-      <mapping pattern="YUcVZKZayce15jg4MV3l" type="AUTO_DETECTED" />
-      <mapping pattern="f51222d1589a28013efe7e500f4e8397" type="AUTO_DETECTED" />
-      <mapping pattern="2cb35d7b764f7694cec6e840f18d7f28" type="AUTO_DETECTED" />
-      <mapping pattern="f8e54e388c9a0a669f08842eb0442471" type="AUTO_DETECTED" />
-      <mapping pattern="y1TnhhCeLQoitjO1Tkut" type="AUTO_DETECTED" />
+      <mapping pattern="Caddyfile" type="AUTO_DETECTED" />
       <mapping pattern="jUdHhYS+vLXxfNa4p6CG" type="AUTO_DETECTED" />
+      <mapping pattern="Caddyfile2" type="AUTO_DETECTED" />
+      <mapping pattern="b054fecb885164db2b58daad34b0b336" type="AUTO_DETECTED" />
+      <mapping pattern="YUcVZKZayce15jg4MV3l" type="AUTO_DETECTED" />
       <mapping pattern="13481b6da36b9582341f73c1ac558b4b" type="AUTO_DETECTED" />
+      <mapping pattern="eab67771656b94769b4b00176c8c1c25" type="AUTO_DETECTED" />
+      <mapping pattern="d04cb86a01d756b6075b3d7fbd4397ee" type="AUTO_DETECTED" />
+      <mapping pattern="empty" type="AUTO_DETECTED" />
+      <mapping pattern="ae0d955040e92689f5bc515796b1de2a" type="AUTO_DETECTED" />
+      <mapping pattern="hosts" type="AUTO_DETECTED" />
+      <mapping pattern="mercure" type="AUTO_DETECTED" />
       <mapping pattern="mercure-run" type="AUTO_DETECTED" />
+      <mapping pattern="b234b9c0b6a61491dfb5d7291aef618e" type="AUTO_DETECTED" />
+      <mapping pattern="48058d4424dc14d26d218f85229bae94" type="AUTO_DETECTED" />
+      <mapping pattern="f51222d1589a28013efe7e500f4e8397" type="AUTO_DETECTED" />
+      <mapping pattern="123" type="AUTO_DETECTED" />
+      <mapping pattern="2cb35d7b764f7694cec6e840f18d7f28" type="AUTO_DETECTED" />
+      <mapping pattern="y1TnhhCeLQoitjO1Tkut" type="AUTO_DETECTED" />
+      <mapping pattern="f8e54e388c9a0a669f08842eb0442471" type="AUTO_DETECTED" />
       <mapping pattern="libraries" type="PHP" />
-      <mapping pattern=".go.php.swp" type="PLAIN_TEXT" />
-      <mapping pattern=".dev" type="PLAIN_TEXT" />
-      <mapping pattern="hgrc" type="PLAIN_TEXT" />
-      <mapping pattern="1юече" type="PLAIN_TEXT" />
       <mapping pattern="Правовое управление тест SOAP" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="hgrc" type="PLAIN_TEXT" />
       <mapping pattern="master" type="PLAIN_TEXT" />
+      <mapping pattern=".go.php.swp" type="PLAIN_TEXT" />
+      <mapping pattern="1юече" type="PLAIN_TEXT" />
+      <mapping pattern=".dev" type="PLAIN_TEXT" />
       <mapping ext="1cws" type="PLAIN_TEXT" />
       <mapping ext="snp" type="PLAIN_TEXT" />
       <mapping ext="origin" type="PLAIN_TEXT" />
@@ -43,7 +42,6 @@
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="sqlite3" type="PLAIN_TEXT" />
       <mapping ext="log2" type="PLAIN_TEXT" />
-      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="log1" type="PLAIN_TEXT" />
       <mapping ext="httpswd" type="PLAIN_TEXT" />
       <mapping ext="orig" type="PLAIN_TEXT" />
@@ -54,7 +52,6 @@
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <removed_mapping pattern=".env" approved="true" type=".env file" />
     </extensionMap>
   </component>
 </application>
