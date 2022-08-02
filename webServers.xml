@@ -85,6 +85,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="58c8699b-894a-4131-af4e-660b09d134f2" name="fabrica-dev-dmz">
+        <fileTransfer rootFolder="/home/bitrix/ext_www/bx-test-dmz/" accessType="SFTP" host="94.79.43.197" port="22" sshConfigId="e266f045-fe6f-45c2-a51b-d9f1a64e8c38" sshConfig="DEV-fabrika">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
