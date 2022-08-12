@@ -92,6 +92,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="94e300be-5123-41b2-9f3e-7f79f5d17a94" name="bazportal">
+        <fileTransfer rootFolder="/home/bitrix/ext_www/bazportal.webdev.rarus-crimea.ru" accessType="SFTP" host="194.226.180.77" port="22" sshConfigId="61d58b6d-f48c-45ae-b2a9-2157f4c18bef" sshConfig="webdev" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
