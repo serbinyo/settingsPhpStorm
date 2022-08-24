@@ -14,8 +14,8 @@
       <mapping pattern="13481b6da36b9582341f73c1ac558b4b" type="AUTO_DETECTED" />
       <mapping pattern="eab67771656b94769b4b00176c8c1c25" type="AUTO_DETECTED" />
       <mapping pattern="d04cb86a01d756b6075b3d7fbd4397ee" type="AUTO_DETECTED" />
-      <mapping pattern="settings_json" type="AUTO_DETECTED" />
       <mapping pattern="empty" type="AUTO_DETECTED" />
+      <mapping pattern="settings_json" type="AUTO_DETECTED" />
       <mapping pattern="ae0d955040e92689f5bc515796b1de2a" type="AUTO_DETECTED" />
       <mapping pattern="hosts" type="AUTO_DETECTED" />
       <mapping pattern="mercure" type="AUTO_DETECTED" />
