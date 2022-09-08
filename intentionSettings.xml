@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="PHP/Convert array to traditional syntax" />
+    <ignoreAction name="JavaScript/ECMAScript 6/Introduce object or array destructuring" />
   </component>
 </application>
