@@ -25,6 +25,9 @@
       <sshConfig authType="OPEN_SSH" host="212.227.210.18" id="15d6d900-0134-48db-9ca9-24571aca1f9b" port="22" customName="FriskyPony PROD" nameFormat="CUSTOM" username="serbin">
         <option name="customName" value="FriskyPony PROD" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" host="82.148.31.179" id="11a22d23-df73-4cfb-a87c-c6d686f35013" port="22" customName="Test joomla 1.5" nameFormat="CUSTOM" username="stalek">
+        <option name="customName" value="Test joomla 1.5" />
+      </sshConfig>
     </configs>
   </component>
 </application>
