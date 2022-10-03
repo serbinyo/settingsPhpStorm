@@ -1,6 +1,27 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="7ff741a3-2b1d-4676-adb8-492383172292" name="nikiet-dev">
+        <fileTransfer rootFolder="/home/bitrix/www" accessType="SFTP" host="194.226.180.88" port="22" sshConfigId="7783c64c-378b-4249-ab48-71ca99de95f3" sshConfig="nikiet-dev" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="3cee14c5-3c17-4114-8c34-6a9350d3045e" name="nikiet-bus">
+        <fileTransfer rootFolder="/home/bitrix" accessType="SFTP" host="194.226.180.89" port="22" sshConfigId="a65f9a19-c240-45d9-b47b-57f983f9ccfe" sshConfig="b24.sevgov" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="27576c83-8511-4f3f-8920-73c71a123212" name="nikiet-prod">
+        <fileTransfer rootFolder="/home/bitrix/www" accessType="SFTP" sshConfigId="2dc94587-574f-4edb-b884-de1013adc849" sshConfig="nikiet-prod">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
       <webServer id="3aec83f2-8c81-4fb5-bc7d-266503a9c0fb" name="FriskiPony-prod" url="https://friskypony.de/">
         <fileTransfer rootFolder="/home/bitrix/ext_www/friskypony.de" accessType="SFTP" host="212.227.210.18" port="22" sshConfigId="15d6d900-0134-48db-9ca9-24571aca1f9b" sshConfig="FriskyPony PROD" authAgent="true">
           <advancedOptions>
