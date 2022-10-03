@@ -15,8 +15,8 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="27576c83-8511-4f3f-8920-73c71a123212" name="nikiet-prod">
-        <fileTransfer rootFolder="/home/bitrix/www" accessType="SFTP" sshConfigId="2dc94587-574f-4edb-b884-de1013adc849" sshConfig="nikiet-prod">
+      <webServer id="27576c83-8511-4f3f-8920-73c71a123212" name="nikiet-prod" url="">
+        <fileTransfer rootFolder="/home/bitrix/www" accessType="SFTP" host="194.226.180.86" port="22" sshConfigId="2dc94587-574f-4edb-b884-de1013adc849" sshConfig="nikiet-prod" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
