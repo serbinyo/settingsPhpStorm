@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="7ff741a3-2b1d-4676-adb8-492383172292" name="nikiet-dev">
-        <fileTransfer rootFolder="/home/bitrix/www" accessType="SFTP" host="194.226.180.88" port="22" sshConfigId="7783c64c-378b-4249-ab48-71ca99de95f3" sshConfig="nikiet-dev" authAgent="true">
+        <fileTransfer rootFolder="/home/bitrix/www" accessType="SFTP" sshConfigId="7783c64c-378b-4249-ab48-71ca99de95f3" sshConfig="nikiet-dev">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
