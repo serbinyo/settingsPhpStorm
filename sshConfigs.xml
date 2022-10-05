@@ -28,6 +28,12 @@
       <sshConfig authType="PASSWORD" host="82.148.31.179" id="11a22d23-df73-4cfb-a87c-c6d686f35013" port="22" customName="Test joomla 1.5" nameFormat="CUSTOM" username="stalek">
         <option name="customName" value="Test joomla 1.5" />
       </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="194.226.180.88" id="7783c64c-378b-4249-ab48-71ca99de95f3" port="22" customName="nikiet-dev" nameFormat="CUSTOM" username="bitrix">
+        <option name="customName" value="nikiet-dev" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="194.226.180.86" id="2dc94587-574f-4edb-b884-de1013adc849" port="22" customName="nikiet-prod" nameFormat="CUSTOM" username="bitrix">
+        <option name="customName" value="nikiet-prod" />
+      </sshConfig>
     </configs>
   </component>
 </application>
