@@ -120,6 +120,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="c519c105-c9ba-4a4f-91b9-2e1db1f76033" name="test-joomla15">
+        <fileTransfer rootFolder="/home/" accessType="SFTP" host="82.148.31.179" port="22" sshConfigId="11a22d23-df73-4cfb-a87c-c6d686f35013" sshConfig="Test joomla 1.5">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
