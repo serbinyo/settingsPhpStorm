@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="7ff741a3-2b1d-4676-adb8-492383172292" name="nikiet-dev" url="http://info.nikietb24.rarus-criema.ru/">
-        <fileTransfer rootFolder="/home/bitrix/www" accessType="SFTP" host="194.226.180.88" port="22" sshConfigId="7783c64c-378b-4249-ab48-71ca99de95f3" sshConfig="nikiet-dev" authAgent="true">
+        <fileTransfer rootFolder="/home/bitrix/www" accessType="SFTP" host="94.79.22.139" port="22" sshConfigId="7783c64c-378b-4249-ab48-71ca99de95f3" sshConfig="nikiet-dev" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -16,7 +16,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="27576c83-8511-4f3f-8920-73c71a123212" name="nikiet-prod" url="">
-        <fileTransfer rootFolder="/home/bitrix/www" accessType="SFTP" host="194.226.180.86" port="22" sshConfigId="2dc94587-574f-4edb-b884-de1013adc849" sshConfig="nikiet-prod" authAgent="true">
+        <fileTransfer rootFolder="/home/bitrix/www" accessType="SFTP" host="94.79.22.138" port="22" sshConfigId="2dc94587-574f-4edb-b884-de1013adc849" sshConfig="nikiet-prod" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -128,7 +128,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="192baa98-679d-4e8e-b40d-016cfaccadc1" name="nikiet-PROD">
-        <fileTransfer rootFolder="/home/bitrix/www" accessType="SFTP" host="194.226.180.86" port="22" sshConfigId="2dc94587-574f-4edb-b884-de1013adc849" sshConfig="nikiet-prod" authAgent="true">
+        <fileTransfer rootFolder="/home/bitrix/www" accessType="SFTP" host="94.79.22.138" port="22" sshConfigId="2dc94587-574f-4edb-b884-de1013adc849" sshConfig="nikiet-prod" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
