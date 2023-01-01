@@ -34,6 +34,9 @@
       <sshConfig authType="OPEN_SSH" host="94.79.22.138" id="2dc94587-574f-4edb-b884-de1013adc849" port="22" customName="nikiet-prod" nameFormat="CUSTOM" username="bitrix">
         <option name="customName" value="nikiet-prod" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="localhost" id="6abfc935-7b61-4499-8488-9a952e0b1f6e" port="227" customName="vm-module.favorites" nameFormat="CUSTOM" username="bitrix">
+        <option name="customName" value="vm-module.favorites" />
+      </sshConfig>
     </configs>
   </component>
 </application>
