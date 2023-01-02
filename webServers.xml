@@ -134,6 +134,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="0f389efc-24f9-4bd8-9f08-968bf11ae0a2" name="fav.module">
+        <fileTransfer rootFolder="/home/bitrix/www" accessType="SFTP" host="localhost" port="227" sshConfigId="d6d954c8-ea8b-4eff-a1a7-d6c8f7dd18a3" sshConfig="VM.fav.module" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
