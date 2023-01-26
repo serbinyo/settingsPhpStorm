@@ -37,6 +37,7 @@
       <mapping ext="1cws" type="PLAIN_TEXT" />
       <mapping ext="snp" type="PLAIN_TEXT" />
       <mapping ext="origin" type="PLAIN_TEXT" />
+      <mapping ext="en" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="qr" type="PLAIN_TEXT" />
       <mapping ext="tuc" type="PLAIN_TEXT" />
