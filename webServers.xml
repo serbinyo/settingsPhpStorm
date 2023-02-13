@@ -1,6 +1,13 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="7dd5e51a-a86d-4449-a019-518b9e5a39c1" name="wsl2_win_10">
+        <fileTransfer rootFolder="/home/serbin/code" accessType="SFTP" host="172.27.199.83" port="2222" sshConfigId="4fc0d472-d1d8-44af-a547-9f656d97e25a" sshConfig="WSL2 Windows10">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
       <webServer id="7ff741a3-2b1d-4676-adb8-492383172292" name="nikiet-dev" url="http://info.nikietb24.rarus-criema.ru/">
         <fileTransfer rootFolder="/home/bitrix/www" accessType="SFTP" host="94.79.22.139" port="22" sshConfigId="7783c64c-378b-4249-ab48-71ca99de95f3" sshConfig="nikiet-dev" authAgent="true">
           <advancedOptions>
