@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="7dd5e51a-a86d-4449-a019-518b9e5a39c1" name="wsl2_win_10">
-        <fileTransfer rootFolder="/home/serbin/code/docker" accessType="SFTP" host="172.27.199.83" port="2222" sshConfigId="4fc0d472-d1d8-44af-a547-9f656d97e25a" sshConfig="WSL2 Windows10">
+        <fileTransfer rootFolder="/home/serbin/code/simfony-site" accessType="SFTP" host="172.27.199.83" port="2222" sshConfigId="4fc0d472-d1d8-44af-a547-9f656d97e25a" sshConfig="WSL2 Windows10">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -143,6 +143,13 @@
       </webServer>
       <webServer id="0f389efc-24f9-4bd8-9f08-968bf11ae0a2" name="fav.module">
         <fileTransfer rootFolder="/home/bitrix/www" accessType="SFTP" host="localhost" port="227" sshConfigId="d6d954c8-ea8b-4eff-a1a7-d6c8f7dd18a3" sshConfig="VM.fav.module" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="e4b8a3c2-6d9a-498f-86b2-c7cc02595e49" name="wsl2_site">
+        <fileTransfer rootFolder="/home/serbin/code/symfony-site" accessType="SFTP" host="172.27.199.83" port="2222" sshConfigId="4fc0d472-d1d8-44af-a547-9f656d97e25a" sshConfig="WSL2 Windows10">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
