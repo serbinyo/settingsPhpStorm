@@ -149,7 +149,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="e4b8a3c2-6d9a-498f-86b2-c7cc02595e49" name="wsl2_site">
-        <fileTransfer rootFolder="/home/serbin/code/flarum" accessType="SFTP" host="172.21.93.98" port="2222" sshConfigId="4fc0d472-d1d8-44af-a547-9f656d97e25a" sshConfig="WSL2 Windows10">
+        <fileTransfer rootFolder="/home/serbin/code/symfony-site" accessType="SFTP" host="172.21.93.98" port="2222" sshConfigId="4fc0d472-d1d8-44af-a547-9f656d97e25a" sshConfig="WSL2 Windows10">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
