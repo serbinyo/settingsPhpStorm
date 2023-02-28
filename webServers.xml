@@ -162,13 +162,6 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="b2dd33f8-f130-4f86-8391-29c4d1003f4f" name="wsl2_palace">
-        <fileTransfer rootFolder="/home/serbin/code/palace" accessType="SFTP" host="172.21.93.98" port="2222" sshConfigId="4fc0d472-d1d8-44af-a547-9f656d97e25a" sshConfig="WSL2 Windows10">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
     </option>
   </component>
 </application>
