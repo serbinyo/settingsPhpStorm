@@ -37,7 +37,7 @@
       <sshConfig authType="OPEN_SSH" host="localhost" id="d6d954c8-ea8b-4eff-a1a7-d6c8f7dd18a3" port="227" customName="VM.fav.module" nameFormat="CUSTOM" username="bitrix">
         <option name="customName" value="VM.fav.module" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="172.21.84.14" id="4fc0d472-d1d8-44af-a547-9f656d97e25a" port="2222" customName="WSL2 Windows10" nameFormat="CUSTOM" username="serbin">
+      <sshConfig authType="PASSWORD" host="172.17.91.48" id="4fc0d472-d1d8-44af-a547-9f656d97e25a" port="2222" customName="WSL2 Windows10" nameFormat="CUSTOM" username="serbin">
         <option name="customName" value="WSL2 Windows10" />
       </sshConfig>
     </configs>
