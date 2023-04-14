@@ -40,6 +40,9 @@
       <sshConfig authType="PASSWORD" host="172.17.91.48" id="4fc0d472-d1d8-44af-a547-9f656d97e25a" port="2222" customName="WSL2 Windows10" nameFormat="CUSTOM" username="serbin">
         <option name="customName" value="WSL2 Windows10" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" host="localhost" id="9088c062-382d-44cb-bf82-c6d0f107da84" port="231" customName="VM.bitrix-api" nameFormat="CUSTOM" username="bitrix">
+        <option name="customName" value="VM.bitrix-api" />
+      </sshConfig>
     </configs>
   </component>
 </application>

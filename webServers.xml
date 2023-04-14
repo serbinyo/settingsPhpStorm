@@ -79,9 +79,9 @@
         </fileTransfer>
       </webServer>
       <webServer id="116e3edc-bb3c-484e-84bb-0d2163ff578b" name="b24.sevgov" url="http://devworkin.sev.gov.ru/">
-        <fileTransfer rootFolder="/home/bitrix/ext_www/" accessType="SFTP" host="212.227.210.18" port="22" sshConfigId="15d6d900-0134-48db-9ca9-24571aca1f9b" sshConfig="FriskyPony PROD" authAgent="true">
+        <fileTransfer rootFolder="/home/bitrix/ext_www/" accessType="SFTP" host="194.226.180.89" port="22" sshConfigId="a65f9a19-c240-45d9-b47b-57f983f9ccfe" sshConfig="b24.sevgov" authAgent="true">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
@@ -157,6 +157,13 @@
       </webServer>
       <webServer id="51244563-1798-4f9e-82cf-2eeea5ccb24a" name="wsl2_flarum">
         <fileTransfer rootFolder="/home/serbin/code/flarum" accessType="SFTP" host="172.17.91.48" port="2222" sshConfigId="4fc0d472-d1d8-44af-a547-9f656d97e25a" sshConfig="WSL2 Windows10">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="d04e0c68-b2b1-49c3-8d07-f4b8321d05fb" name="BitrixApi">
+        <fileTransfer accessType="SFTP" host="localhost" port="231" sshConfigId="9088c062-382d-44cb-bf82-c6d0f107da84" sshConfig="VM.bitrix-api">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
