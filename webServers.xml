@@ -163,7 +163,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="d04e0c68-b2b1-49c3-8d07-f4b8321d05fb" name="BitrixApi">
-        <fileTransfer rootFolder="/home/bitrix/" accessType="SFTP" host="localhost" port="231" sshConfigId="9088c062-382d-44cb-bf82-c6d0f107da84" sshConfig="VM.bitrix-api">
+        <fileTransfer rootFolder="/home/bitrix/" accessType="SFTP" host="localhost" port="231" sshConfigId="9088c062-382d-44cb-bf82-c6d0f107da84" sshConfig="VM.bitrix-api" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
