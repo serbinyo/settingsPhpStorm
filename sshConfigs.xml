@@ -43,6 +43,9 @@
       <sshConfig authType="OPEN_SSH" host="localhost" id="9088c062-382d-44cb-bf82-c6d0f107da84" port="231" customName="VM.bitrix-api" nameFormat="CUSTOM" username="bitrix">
         <option name="customName" value="VM.bitrix-api" />
       </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="94.79.22.133" id="2c156e1b-dccb-475b-923b-8a7e724452e2" port="22055" customName="RTT DEV backend" nameFormat="CUSTOM" username="serbin">
+        <option name="customName" value="RTT DEV backend" />
+      </sshConfig>
     </configs>
   </component>
 </application>

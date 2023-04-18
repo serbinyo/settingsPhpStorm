@@ -169,6 +169,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="67a93ce8-3739-48f7-9db9-196db3aa2bae" name="rtt-new">
+        <fileTransfer rootFolder="/home/bitrix/ext_www/app.rttgroup.ru" accessType="SFTP" host="94.79.22.133" port="22055" sshConfigId="2c156e1b-dccb-475b-923b-8a7e724452e2" sshConfig="RTT DEV backend" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
