@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="194.226.180.77" id="61d58b6d-f48c-45ae-b2a9-2157f4c18bef" port="22" customName="webdev" nameFormat="CUSTOM" username="serbin">
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="94.79.22.142" id="61d58b6d-f48c-45ae-b2a9-2157f4c18bef" port="22" customName="webdev" nameFormat="CUSTOM" username="serbin">
         <option name="customName" value="webdev" />
       </sshConfig>
       <sshConfig authType="PASSWORD" host="192.168.40.133" id="70f53357-dcdc-47d5-bf79-d78f2d06a63f" port="22" customName="sevcolor dev" nameFormat="CUSTOM" username="bitrix">
@@ -45,6 +45,9 @@
       </sshConfig>
       <sshConfig authType="OPEN_SSH" host="94.79.22.133" id="2c156e1b-dccb-475b-923b-8a7e724452e2" port="22055" customName="RTT DEV backend" nameFormat="CUSTOM" username="serbin">
         <option name="customName" value="RTT DEV backend" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="94.79.22.133" id="bc48dcf3-e25d-4425-b4c8-7164e007f287" port="22027" customName="new webdev" nameFormat="CUSTOM" username="serbin">
+        <option name="customName" value="new webdev" />
       </sshConfig>
     </configs>
   </component>

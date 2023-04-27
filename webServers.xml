@@ -44,14 +44,14 @@
         </fileTransfer>
       </webServer>
       <webServer id="5f38874a-0f47-47df-aced-ec8d21b28c24" name="sevgu-dev">
-        <fileTransfer rootFolder="/home/bitrix/ext_www/sgu.webdev.rarus-crimea.ru" accessType="SFTP" host="194.226.180.77" port="22" sshConfigId="61d58b6d-f48c-45ae-b2a9-2157f4c18bef" sshConfig="webdev" authAgent="true">
+        <fileTransfer rootFolder="/home/bitrix/ext_www/sgu.webdev.rarus-crimea.ru" accessType="SFTP" host="94.79.22.142" port="22" sshConfigId="61d58b6d-f48c-45ae-b2a9-2157f4c18bef" sshConfig="webdev" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="2e6c5a1c-befb-428c-ac25-00ab8736d9ab" name="СТПРОМ">
-        <fileTransfer rootFolder="/home/bitrix/ext_www/stprom24.webdev.rarus-crimea.ru" accessType="SFTP" host="194.226.180.77" port="22" sshConfigId="61d58b6d-f48c-45ae-b2a9-2157f4c18bef" sshConfig="webdev" authAgent="true">
+        <fileTransfer rootFolder="/home/bitrix/ext_www/stprom24.webdev.rarus-crimea.ru" accessType="SFTP" host="94.79.22.142" port="22" sshConfigId="61d58b6d-f48c-45ae-b2a9-2157f4c18bef" sshConfig="webdev" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -65,7 +65,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="deb14b2c-eb5f-4b5d-99a8-cac32931dcf4" name="webdev" url="http://194.226.180.77">
-        <fileTransfer rootFolder="/home/bitrix/ext_www" accessType="SFTP" host="194.226.180.77" port="22" sshConfigId="61d58b6d-f48c-45ae-b2a9-2157f4c18bef" sshConfig="webdev" authAgent="true">
+        <fileTransfer rootFolder="/home/bitrix/ext_www" accessType="SFTP" host="94.79.22.142" port="22" sshConfigId="61d58b6d-f48c-45ae-b2a9-2157f4c18bef" sshConfig="webdev" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
@@ -79,14 +79,14 @@
         </fileTransfer>
       </webServer>
       <webServer id="116e3edc-bb3c-484e-84bb-0d2163ff578b" name="b24.sevgov" url="http://devworkin.sev.gov.ru/">
-        <fileTransfer rootFolder="/home/bitrix/ext_www/" accessType="SFTP" host="194.226.180.89" port="22" sshConfigId="a65f9a19-c240-45d9-b47b-57f983f9ccfe" sshConfig="b24.sevgov" authAgent="true">
+        <fileTransfer rootFolder="/home/bitrix/ext_www/" accessType="SFTP" host="94.79.22.133" port="22027" sshConfigId="bc48dcf3-e25d-4425-b4c8-7164e007f287" sshConfig="new webdev" authAgent="true">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="d6a5e1d0-7891-474e-b78e-b0b4a2d0ca51" name="fpsp">
-        <fileTransfer rootFolder="/home/bitrix/ext_www/fskr92.webdev.rarus-crimea.ru" accessType="SFTP" host="194.226.180.77" port="22" sshConfigId="61d58b6d-f48c-45ae-b2a9-2157f4c18bef" sshConfig="webdev" authAgent="true">
+        <fileTransfer rootFolder="/home/bitrix/ext_www/fskr92.webdev.rarus-crimea.ru" accessType="SFTP" host="94.79.22.142" port="22" sshConfigId="61d58b6d-f48c-45ae-b2a9-2157f4c18bef" sshConfig="webdev" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -100,7 +100,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="266baa3d-b675-4f9d-a787-c99f1a743262" name="sevdev">
-        <fileTransfer rootFolder="/home/bitrix/ext_www/sevdev.webdev.rarus-crimea.ru" accessType="SFTP" host="194.226.180.77" port="22" sshConfigId="61d58b6d-f48c-45ae-b2a9-2157f4c18bef" sshConfig="webdev" authAgent="true">
+        <fileTransfer rootFolder="/home/bitrix/ext_www/sevdev.webdev.rarus-crimea.ru" accessType="SFTP" host="94.79.22.142" port="22" sshConfigId="61d58b6d-f48c-45ae-b2a9-2157f4c18bef" sshConfig="webdev" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -121,7 +121,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="94e300be-5123-41b2-9f3e-7f79f5d17a94" name="bazportal">
-        <fileTransfer rootFolder="/home/bitrix/ext_www/bazportal.webdev.rarus-crimea.ru" accessType="SFTP" host="194.226.180.77" port="22" sshConfigId="61d58b6d-f48c-45ae-b2a9-2157f4c18bef" sshConfig="webdev" authAgent="true">
+        <fileTransfer rootFolder="/home/bitrix/ext_www/bazportal.webdev.rarus-crimea.ru" accessType="SFTP" host="94.79.22.142" port="22" sshConfigId="61d58b6d-f48c-45ae-b2a9-2157f4c18bef" sshConfig="webdev" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
