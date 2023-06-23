@@ -100,9 +100,9 @@
         </fileTransfer>
       </webServer>
       <webServer id="266baa3d-b675-4f9d-a787-c99f1a743262" name="sevdev">
-        <fileTransfer rootFolder="/home/bitrix/ext_www/sevdev.webdev.rarus-crimea.ru" accessType="SFTP" host="94.79.22.142" port="22" sshConfigId="61d58b6d-f48c-45ae-b2a9-2157f4c18bef" sshConfig="webdev" authAgent="true">
+        <fileTransfer rootFolder="/home/bitrix/ext_www/sevdev.webdev.ru" accessType="SFTP" host="94.79.22.133" port="22027" sshConfigId="bc48dcf3-e25d-4425-b4c8-7164e007f287" sshConfig="new webdev" authAgent="true">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
