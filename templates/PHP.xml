@@ -23,7 +23,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="getbug" value="if (isset($_GET['bug'])) {echo '&lt;pre&gt;';print_r($VAR$);echo '&lt;/pre&gt;';}" description="if (isset($_GET['bug'])) {echo '&lt;pre&gt;';print_r($VAR$);echo '&lt;/pre&gt;';}" toReformat="false" toShortenFQNames="true">
+  <template name="getbug" value="if (isset($_GET['bug'])) {&#10;echo '&lt;pre&gt;';print_r($VAR$);echo '&lt;/pre&gt;';&#10;die;&#10;}" description="if (isset($_GET['bug'])) {echo '&lt;pre&gt;';print_r($VAR$);echo '&lt;/pre&gt;';}" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
