@@ -9,7 +9,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="7ff741a3-2b1d-4676-adb8-492383172292" name="nikiet-dev" url="http://info.nikietb24.rarus-criema.ru/">
-        <fileTransfer rootFolder="/home/bitrix/www" accessType="SFTP" host="94.79.22.138" port="22" sshConfigId="2dc94587-574f-4edb-b884-de1013adc849" sshConfig="nikiet-prod" authAgent="true">
+        <fileTransfer rootFolder="/home/bitrix/www" accessType="SFTP" host="94.79.22.139" port="22" sshConfigId="7783c64c-378b-4249-ab48-71ca99de95f3" sshConfig="nikiet-dev" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -79,7 +79,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="116e3edc-bb3c-484e-84bb-0d2163ff578b" name="b24.sevgov" url="http://devworkin.sev.gov.ru/">
-        <fileTransfer rootFolder="/home/bitrix/ext_www/" accessType="SFTP" host="94.79.22.133" port="22065" sshConfigId="2dde1a20-becc-4e5f-95aa-2552163ce055" sshConfig="TD-kama-garantee" authAgent="true">
+        <fileTransfer rootFolder="/home/bitrix/ext_www/" accessType="SFTP" sshConfigId="2dde1a20-becc-4e5f-95aa-2552163ce055" sshConfig="TD-kama-garantee">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
