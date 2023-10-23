@@ -27,6 +27,7 @@
       <mapping pattern="13481b6da36b9582341f73c1ac558b4b" type="AUTO_DETECTED" />
       <mapping pattern="mercure-run" type="AUTO_DETECTED" />
       <mapping pattern="settings_json" type="AUTO_DETECTED" />
+      <mapping pattern="config" type="AUTO_DETECTED" />
       <mapping pattern="libraries" type="PHP" />
       <mapping pattern=".go.php.swp" type="PLAIN_TEXT" />
       <mapping pattern=".dev" type="PLAIN_TEXT" />
