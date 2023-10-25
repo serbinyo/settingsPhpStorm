@@ -6,7 +6,7 @@
     <mask>!*.html</mask>
     <mask>!*.css</mask>
     <mask>*.sh</mask>
-    <mask>*.css</mask>
+    <mask>*.js</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.php4</mask>
@@ -17,6 +17,6 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.php</mask>
-    <mask>*.js</mask>
+    <mask>*.css</mask>
   </component>
 </application>
