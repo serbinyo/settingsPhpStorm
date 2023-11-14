@@ -50,7 +50,7 @@
         <option name="customName" value="new webdev" />
       </sshConfig>
       <sshConfig host="localhost" id="2dde1a20-becc-4e5f-95aa-2552163ce055" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" />
-      <sshConfig authType="OPEN_SSH" host="94.79.22.133" id="5b9faa89-3618-471e-83e9-e360a5c939e4" port="22090" customName="keyauto Dev" nameFormat="CUSTOM" username="serbin">
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="94.79.22.133" id="5b9faa89-3618-471e-83e9-e360a5c939e4" port="22090" customName="keyauto Dev" nameFormat="CUSTOM" username="serbin">
         <option name="customName" value="keyauto Dev" />
       </sshConfig>
     </configs>
