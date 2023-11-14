@@ -177,7 +177,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="6bde2723-f355-44cc-bdec-3205b8e1bcce" name="autokey Dev">
-        <fileTransfer rootFolder="/home" accessType="SFTP" host="94.79.22.133" port="22090" sshConfigId="5b9faa89-3618-471e-83e9-e360a5c939e4" sshConfig="keyauto Dev" authAgent="true">
+        <fileTransfer rootFolder="/home/bitrix/www" accessType="SFTP" host="94.79.22.133" port="22090" sshConfigId="5b9faa89-3618-471e-83e9-e360a5c939e4" sshConfig="keyauto Dev" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
