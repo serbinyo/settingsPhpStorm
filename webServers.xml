@@ -79,7 +79,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="116e3edc-bb3c-484e-84bb-0d2163ff578b" name="b24.sevgov" url="http://devworkin.sev.gov.ru/">
-        <fileTransfer rootFolder="/home/bitrix/ext_www/" accessType="SFTP" host="94.79.22.133" port="22090" sshConfigId="5b9faa89-3618-471e-83e9-e360a5c939e4" sshConfig="keyauto Dev" authAgent="true">
+        <fileTransfer rootFolder="/home/bitrix/ext_www/" accessType="SFTP" host="localhost" port="22" sshConfigId="2dde1a20-becc-4e5f-95aa-2552163ce055" sshConfig="&lt;username&gt;@localhost:22 key" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -171,13 +171,6 @@
       </webServer>
       <webServer id="67a93ce8-3739-48f7-9db9-196db3aa2bae" name="rtt-new">
         <fileTransfer rootFolder="/home/bitrix/ext_www/app.rttgroup.ru" accessType="SFTP" host="94.79.22.133" port="22055" sshConfigId="2c156e1b-dccb-475b-923b-8a7e724452e2" sshConfig="RTT DEV backend" authAgent="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
-      <webServer id="6bde2723-f355-44cc-bdec-3205b8e1bcce" name="autokey Dev">
-        <fileTransfer rootFolder="/home/bitrix/www" accessType="SFTP" host="94.79.22.133" port="22090" sshConfigId="5b9faa89-3618-471e-83e9-e360a5c939e4" sshConfig="keyauto Dev" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
