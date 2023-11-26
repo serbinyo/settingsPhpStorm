@@ -1,6 +1,13 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="b94f36a0-6747-4905-b132-746f5bb1b220" name="td-kama-garantee" url="https://dev.tdkama.ru/">
+        <fileTransfer rootFolder="/home/serbin/prometheus/" accessType="SFTP" host="94.79.22.133" port="22065" sshConfigId="2dde1a20-becc-4e5f-95aa-2552163ce055" sshConfig="TD-kama-garantee" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
       <webServer id="7dd5e51a-a86d-4449-a019-518b9e5a39c1" name="wsl2_win_10">
         <fileTransfer rootFolder="/home/serbin/code/docker" accessType="SFTP" host="172.17.91.48" port="2222" sshConfigId="4fc0d472-d1d8-44af-a547-9f656d97e25a" sshConfig="WSL2 Windows10">
           <advancedOptions>
@@ -79,7 +86,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="116e3edc-bb3c-484e-84bb-0d2163ff578b" name="b24.sevgov" url="http://devworkin.sev.gov.ru/">
-        <fileTransfer rootFolder="/home/bitrix/ext_www/" accessType="SFTP" host="localhost" port="22" sshConfigId="2dde1a20-becc-4e5f-95aa-2552163ce055" sshConfig="&lt;username&gt;@localhost:22 key" keyPair="true">
+        <fileTransfer rootFolder="/home/bitrix/ext_www/" accessType="SFTP" host="94.79.22.133" port="22065" sshConfigId="2dde1a20-becc-4e5f-95aa-2552163ce055" sshConfig="TD Кама СРГ Дэв" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
