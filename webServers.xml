@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="b94f36a0-6747-4905-b132-746f5bb1b220" name="td-kama-garantee" url="https://dev.tdkama.ru/">
-        <fileTransfer rootFolder="/home/serbin/prometheus/" accessType="SFTP" host="94.79.22.133" port="22065" sshConfigId="2dde1a20-becc-4e5f-95aa-2552163ce055" sshConfig="TD-kama-garantee" authAgent="true">
+        <fileTransfer rootFolder="/home/serbin/prometheus/" accessType="SFTP" host="94.79.22.133" port="22065" sshConfigId="2dde1a20-becc-4e5f-95aa-2552163ce055" sshConfig="TD Кама СРГ Дэв" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
