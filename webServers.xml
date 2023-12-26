@@ -86,7 +86,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="116e3edc-bb3c-484e-84bb-0d2163ff578b" name="b24.sevgov" url="http://devworkin.sev.gov.ru/">
-        <fileTransfer rootFolder="/home/bitrix/ext_www/" accessType="SFTP" host="94.79.22.133" port="22065" sshConfigId="2dde1a20-becc-4e5f-95aa-2552163ce055" sshConfig="TD-kama-garantee" authAgent="true">
+        <fileTransfer rootFolder="/home/bitrix/ext_www/" accessType="SFTP" sshConfigId="2dde1a20-becc-4e5f-95aa-2552163ce055" sshConfig="TD-kama-garantee">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
